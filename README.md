@@ -41,6 +41,12 @@ This indicated that incomplete onboarding was not simply an engagement issue —
 
 ---
 
+## 📊 Key Insights & Visualizations
+
+<img width="1600" height="1143" alt="img" src="https://github.com/user-attachments/assets/3c9f90d8-34b0-4c32-9944-0f58861b2e83" />
+
+---
+
 ## 📈 Quantifiable Business Impact
 
 Based on the analysis, an automated intervention strategy was implemented for customers who had incomplete onboarding steps.
